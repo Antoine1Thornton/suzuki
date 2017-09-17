@@ -1,0 +1,31 @@
+body {
+	background-color: blue;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+
+
+p{
+	text-align: center;
+	color: white;
+}
+
+
+li, a {
+	text-align: center;
+	color: white;
+}
+
+img {
+	width: 100vw;
+}
+ul {
+	list-style: none;
+}
